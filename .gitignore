@@ -85,3 +85,4 @@ buildNumber.properties
 
 # 数据库配置文件
 jdbc.properties
+generator.properties
