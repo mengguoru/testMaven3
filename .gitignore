@@ -89,3 +89,4 @@ generator.properties
 
 #sonarlint插件
 /.idea/sonarlint
+/.idea
